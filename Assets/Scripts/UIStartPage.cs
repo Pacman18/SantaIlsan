@@ -8,6 +8,8 @@ public class UIStartPage : MonoBehaviour
 {
     private Canvas _canvas;
 
+    private int _testNumber;
+
     public void SetCanvas(Canvas canvas)
     {
         _canvas = canvas;
